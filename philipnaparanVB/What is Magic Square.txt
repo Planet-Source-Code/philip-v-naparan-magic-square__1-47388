@@ -1,0 +1,28 @@
+THE APPLICATION USES TWO DIMENSIONAL ARRAYS
+CREATED IN JUST 13 MINUTES LAST AUG. 6, 2003
+
+What is Magic Square?
+ - Magic Square is a mathematics number that the
+   total of number of all-side is equal to another side.
+
+ex. 3x3 dimension
+   
+    creates:
+ 
+            8   1    6
+            3   5    7
+            4   9    2
+    
+    Add the side:
+	    
+	    [ Row Side ]
+
+	    8 + 1 + 6 = 15
+	    3 + 5 + 7 = 15
+	    4 + 9 + 2 = 15
+
+	    [ Comlumn Side ]
+
+	    8 + 3 + 4 = 15
+	    1 + 5 + 9 = 15
+	    6 + 7 + 2 = 15
